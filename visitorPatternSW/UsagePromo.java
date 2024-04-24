@@ -1,0 +1,6 @@
+package visitorPatternSW;
+
+public interface UsagePromo {
+    public String showAllowance(String telcoName, double money, int dataAllowance);
+
+}
